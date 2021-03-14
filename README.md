@@ -1,2 +1,2 @@
-# Scopecat
+# Scopekat
 Scoping and sorting subdomains
